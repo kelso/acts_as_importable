@@ -3,8 +3,8 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
-gem "activerecord", "~> 3.0.3"
-gem "actionpack", "~> 3.0.3"
+gem "activerecord", "> 3.0.3"
+gem "actionpack", "> 3.0.3"
 gem "fastercsv", "~> 1.5.3"
 
 # Add dependencies to develop your gem here.
