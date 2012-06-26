@@ -38,6 +38,7 @@ Gem::Specification.new do |s|
   s.rubygems_version = %q{1.6.2}
   s.summary = %q{Makes your model importable from .csv and exportable to .csv}
 
+=begin
   if s.respond_to? :specification_version then
     s.specification_version = 3
 
@@ -61,5 +62,6 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<bundler>, ["~> 1.0.0"])
     s.add_dependency(%q<jeweler>, ["~> 1.5.2"])
   end
+=end
 end
 
